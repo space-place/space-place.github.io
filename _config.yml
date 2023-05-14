@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "SPACE_PLACE"
 title_separator          : "-"
-subtitle                 : 닥치는 대로 공부하고 기록하기✏️
+subtitle                 : 닥치는 대로 공부하고 기록하는 우주🧚
 name                     : "UJU"
 description              : "An amazing website."
 url                      : "https://space-place.github.io"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "UJU"
+  name             : "으아아아"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "중요한 건 꺾였지만 그냥 하는 마음"
+  bio              : "개발 니가 뭔데"
   location         : "Somewhere"
   email            :
   links:
